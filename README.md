@@ -2,6 +2,7 @@
 # FG-Detector 实验指南
 
 对应的数据集可在Zenodo获取https://doi.org/10.5281/zenodo.19094648
+parsec过大，需自行下载
 
 ## 实验流程
 ---
