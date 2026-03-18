@@ -43,7 +43,6 @@ python3 train.py --list
 
 ## 窗口大小实验
 
-用于回答审稿人关于"如何确定窗口大小"的问题。
 
 ```bash
 cd ~/first_collect/model
