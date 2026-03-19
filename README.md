@@ -1,7 +1,7 @@
 # FDcode
 # FG-Detector 实验指南
 
-我自己做实验的对应的数据集可在Zenodo获取https://doi.org/10.5281/zenodo.19094648
+我自己做实验的对应的数据集可在Zenodo获取
 parsec过大，需自行下载
 
 ## 实验流程
